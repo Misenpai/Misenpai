@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" height="150" src="https://gifyu.com/image/bbrNd"/>
+<img align="right" height="150" src="https://s6.gifyu.com/images/bbrNd.gif"/>
 
 ---
 
