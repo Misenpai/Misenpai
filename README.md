@@ -73,6 +73,12 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/socket-dot-io.svg" height="30" alt="socket.io logo" style="filter: invert(100%);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
+  <img width="12" />
+  <!-- Redux logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
+  <img width="12" />
+  <!-- Zustand logo (custom text representation) -->
+  <span style="display: inline-flex; align-items: center; justify-content: center; height: 30px; background-color: #3178c6; color: white; font-weight: bold; padding: 0 8px; border-radius: 4px; font-family: sans-serif; font-size: 12px;">Zustand</span>
 </div>
 
 
