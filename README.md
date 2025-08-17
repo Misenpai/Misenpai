@@ -1,114 +1,151 @@
-<h2 align="left">Hi 👋! My name is Sumit, and I'm a Developer from India.</h2>
+# 🌸 Welcome to My Digital Dojo 🌸
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=こんにちは！+I'm+Sumit+%7C+Developer+from+India;Full+Stack+Developer+%7C+Mobile+Dev+Enthusiast;Always+Learning+%7C+Always+Coding;Building+Dreams+with+Code+✨&font=Fira%20Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&width=800&height=100)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 <div align="center">
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Misenpai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Misenpai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+### 🎌 *"Code is poetry, and every bug is just a haiku waiting to be fixed"* 🎌
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl4d3dsOGswamVhc3QzdjR3ejRuamo2eno1YTZ1cWVrazNiaGJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" width="400" alt="Anime coding gif"/>
+
+
+</div>
+
+## 🚀 About Me
+
+```yaml
+name: Sumit Sinha
+location: India 🇮🇳
+current_status: "Crafting digital experiences"
+favorite_quote: "The way to get started is to quit talking and begin doing"
+coding_philosophy: "Clean code, creative solutions, continuous learning"
+anime_spirit_animal: "Senku Ishigami from Dr. Stone"
+current_mission: "Building the future, one commit at a time"
+```
+
+---
+
+<div align="center">
+
+### ⚡ Power Level Statistics ⚡
+
+<img src="https://github-readme-stats.vercel.app/api?username=Misenpai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=79DAFA&text_color=FFFFFF&custom_title=⚔️%20Combat%20Stats%20⚔️" height="180" alt="stats graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Misenpai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&custom_title=🎯%20Jutsu%20Arsenal%20🎯" height="180" alt="languages graph"/>
+
 </div>
 
 ---
 
-<img align="right" height="150" src="https://s6.gifyu.com/images/bbrNd.gif"/>
+### 🎭 Character Build & Skills
 
----
+<div align="center">
 
-<div align="left">
-  <!-- Technology icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="30" alt="xamarin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="30" alt="xml logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
-  <!-- Flask logo from alternative source -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" height="30" alt="flask logo" style="filter: invert(100%);" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <!-- Express.js logo from alternative source -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" height="30" alt="express logo" style="filter: invert(100%);" />
-  <img width="12" />
-  <!-- Socket.io logo from alternative source -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/socket-dot-io.svg" height="30" alt="socket.io logo" style="filter: invert(100%);" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
-  <img width="12" />
-  <!-- Redux logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
-  <img width="12" />
-  <!-- Zustand logo (custom text representation) -->
-  <span style="display: inline-flex; align-items: center; justify-content: center; height: 30px; background-color: #3178c6; color: white; font-weight: bold; padding: 0 8px; border-radius: 4px; font-family: sans-serif; font-size: 12px;">Zustand</span>
+#### 🌟 Primary Weapons (Languages)
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,kotlin&theme=dark" alt="Programming Languages"/>
+
+#### 🛡️ Frontend Arsenal
+<img src="https://skillicons.dev/icons?i=react,html,css,flutter,androidstudio&theme=dark" alt="Frontend Technologies"/>
+
+#### ⚔️ Backend Mastery
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,express&theme=dark" alt="Backend Technologies"/>
+
+#### 🔮 Database Sorcery
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="Databases"/>
+
+#### 🌩️ Cloud & DevOps Magic
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" alt="DevOps Tools"/>
+
+#### 🎨 Design & Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop&theme=dark" alt="Design Tools"/>
+
 </div>
 
-
 ---
 
-<div align="left">
-  <!-- Social badges with links -->
-  <a href="https://www.instagram.com/misenpai_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <!-- <a href="https://discord.gg/your-invite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a> -->
-  <a href="mailto:sumitsinha.cac@gmaik.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumitsinhain/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-    <a href="https://leetcode.com/u/Misenpai/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="leetcode logo" />
-  </a>
+<div align="center">
+
+### 🏆 Achievement Trophies 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=Misenpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+
 </div>
 
+---
+
+### 📊 Activity Visualization
+
+<div align="center">
+  
+#### ⚡ Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Misenpai&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=79DAFA&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+
+#### 🎭 Contribution Graph Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Misenpai/Misenpai/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Misenpai/Misenpai/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Misenpai/Misenpai/output/snake.svg">
+</picture>
+
+</div>
 
 ---
 
-<br clear="both">
+### 🎌 Connect with Me
 
-<!-- Snake animation generated by GitHub Action -->
-<img src="https://raw.githubusercontent.com/Misenpai/Misenpai/output/snake.svg" alt="Snake animation" />
+<div align="center">
+
+#### 💌 Send a Message
+<a href="mailto:sumitsinha.cac@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/sumitsinhain/">
+  <img src="https://img.shields.io/badge/LinkedIn-79DAFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+
+#### 🎯 Follow the Journey
+<a href="https://www.instagram.com/misenpai_/">
+  <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
+</a>
+<a href="https://leetcode.com/u/Misenpai/">
+  <img src="https://img.shields.io/badge/LeetCode-79DAFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+</a>
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🌸 Random Dev Quote 🌸
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+### 🎭 Visitor Count
+<img src="https://komarev.com/ghpvc/?username=Misenpai&label=Profile%20Views&color=FF6B9D&style=for-the-badge&labelColor=0D1117" alt="Visitor Count"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💫 *"In the world of code, every developer is the protagonist of their own anime"* 💫
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQxcnp6Z3czdDcwaWVtMHZ4N2d4YmV2bTcxcG93cHB5NXpiejE5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="400" alt="Anime coding gif"/>
+
+
+#### ✨ *May your commits be clean and your deploys be successful* ✨
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🌸 Made with ❤️ and lots of ☕ 🌸</sub>
+</div>
